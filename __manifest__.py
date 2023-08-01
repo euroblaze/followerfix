@@ -10,8 +10,8 @@
     'website': 'https://simplify-erp.com',
     'license': 'LGPL-3',
     'depends': ["mail"],
-    'data': [],
-    'assets': [],
+    # 'data': [],
+    # 'assets': [],
     'auto_install': False,
     'installable': True,
 }
